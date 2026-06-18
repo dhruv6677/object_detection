@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+notebook/
+models/
+yolov5/
+input.jpg
+output.jpg
+Sign_language_data.zip
+artifacts/
+*.zip
+*.pt
